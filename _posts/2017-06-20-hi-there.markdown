@@ -15,7 +15,7 @@ print_Hi("Tom");
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out my [Github]({{ https://github.com/dusadpiyush96 }}{% post_url 2017-06-20-hi-there.markdown %})and [fb][facebook profile].
+Check out my [Github]({{ https://github.com/dusadpiyush96 }}{% post_url 2017-06-20-hi-there.markdown %}) and [Facebook][({{ https://www.facebook.com/piyush.dusad.35 }}{% post_url 2017-06-20-hi-there.markdown %}).
 
 [github-profile]: https://github.com/dusadpiyush96
 [fb]:   https://www.facebook.com/piyush.dusad.35
