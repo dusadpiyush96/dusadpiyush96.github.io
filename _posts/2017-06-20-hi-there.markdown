@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Hi There!"
+date:   2017-06-20 05:29:22 +0000
+categories: jekyll update
+---
+This is the place where you canknow every thing about `me and my work` !!!
+Exampe of a java code-
+
+{% highlight java %}
+public static void print_hi(String name){
+  System.out.println("Hi, "+name);
+}
+print_Hi("Tom");
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out my [piyush dusad][github profile] and [fb][facebook profile].
+
+[piyush-dusad]: https://github.com/dusadpiyush96
+[fb]:   https://www.facebook.com/piyush.dusad.35
+
